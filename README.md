@@ -2,8 +2,8 @@
 
 Course programme
 
-0. Brief review of Python
-0. Visualization of data
+1. Brief review of Python
+1. Visualization of data
 0. Linear algebra
 0. Statistics
 0. Probability

@@ -35,3 +35,4 @@
 - [01_Brief_review_of_Python. Lessons 3 and 4 video. 11 Nov 2020](https://drive.google.com/file/d/1Fl52XiTQlZgfaFYgJ8KcKza4Rk5amZPr/view?usp=sharing)
 - [02_Visualization_of_data. Lesson 1. 18 Nov 2020](https://drive.google.com/file/d/1awHThj9VWfXWzu4NWZEGHQsyrjl_S8Mp/view?usp=sharing)
 - [02_Visualization_of_data. Lesson 2. 25 Nov 2020](https://drive.google.com/drive/folders/1zbj-rXLDVpMYHibNhJACLLel5HFxwBXL?usp=sharing)
+- [03_Linear_algebra. Lesson 1. 02 Dec 2020](https://drive.google.com/file/d/1QLdU7VMm9lrWu7cp8kxff5kNwXivVUac/view?usp=sharing)

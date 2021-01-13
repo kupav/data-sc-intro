@@ -37,3 +37,5 @@
 - [02_Visualization_of_data. Lesson 2. 25 Nov 2020](https://drive.google.com/drive/folders/1zbj-rXLDVpMYHibNhJACLLel5HFxwBXL?usp=sharing)
 - [03_Linear_algebra. Lesson 1. 02 Dec 2020](https://drive.google.com/file/d/1QLdU7VMm9lrWu7cp8kxff5kNwXivVUac/view?usp=sharing)
 - [03_Linear_algebra. Lesson 2. 09 Dec 2020](https://drive.google.com/file/d/1d_fIIYCKeqxgjQK9gYUwOou2p1oI9pN4/view?usp=sharing)
+- [04_Statistics. 16 Dec 2020](https://drive.google.com/file/d/11Kksr-jr1-c7uKtE0jh9dkvIQ9SBiZ2H/view?usp=sharing)
+- [05_Probability. Lessons 1 and 2 (partially). 13 Jan 2021](https://drive.google.com/file/d/1AcEgpJzQTkKZ4L6-DqF6KZhukS1hzXTT/view?usp=sharing)

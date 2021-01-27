@@ -40,3 +40,4 @@
 - [04_Statistics. 16 Dec 2020](https://drive.google.com/file/d/11Kksr-jr1-c7uKtE0jh9dkvIQ9SBiZ2H/view?usp=sharing)
 - [05_Probability. Lessons 1 and 2 (partially). 13 Jan 2021](https://drive.google.com/file/d/1AcEgpJzQTkKZ4L6-DqF6KZhukS1hzXTT/view?usp=sharing)
 - [05_Probability. Lessons 2 (final part), 06_Hypothesis_and_inference. Lesson 1. 20 Jan 2021](https://drive.google.com/file/d/16PaAt28uU3Jk4vFgL77QE81wy0-P5K-1/view?usp=sharing)
+- [06_Hypothesis_and_inference. Lesson 2. 27 Jan 2021](https://drive.google.com/file/d/1ghERPEjkhW3LUgyu0XRFzgm6ypU1chPQ/view?usp=sharing)

@@ -43,3 +43,4 @@
 - [06_Hypothesis_and_inference. Lesson 2. 27 Jan 2021](https://drive.google.com/file/d/1ghERPEjkhW3LUgyu0XRFzgm6ypU1chPQ/view?usp=sharing)
 - [07_Gradient_descent. 03 Feb 2021](https://drive.google.com/file/d/1r0bXGGxShSLQsOYnLZEnDWMMYQHl_gXz/view?usp=sharing)
 - [08_Getting Data. 10 Feb 2021](https://drive.google.com/file/d/1w9qjBpADGggZFhAaKjL35LAwwbZ-Ot9g/view?usp=sharing)
+- [09_Working_with_data. 17 Feb 2021](https://drive.google.com/file/d/15pJJ5tJ7LMc4KluywJnMhHLr9O5vIzUO/view?usp=sharing)

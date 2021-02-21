@@ -11,9 +11,7 @@
 1. Gradient descent
 1. Getting data
 1. Working with data
-1. Data pre-processing
-1. Linear dimension reduction
-1. Nonlinear dimension reduction
+1. Dimension reduction
 1. Machine learning
 1. k-nearest neighbors
 1. Naive Bayes classification

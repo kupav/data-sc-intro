@@ -17,7 +17,7 @@
 1. Naive Bayes classification
 1. Regression
 1. Decision trees
-1. Clustering
+1. Clustering and unsuperwised learning
 1. Neural networks
 1. Deep learniing
 1. Image recognition

@@ -42,3 +42,4 @@
 - [07_Gradient_descent. 03 Feb 2021](https://drive.google.com/file/d/1r0bXGGxShSLQsOYnLZEnDWMMYQHl_gXz/view?usp=sharing)
 - [08_Getting Data. 10 Feb 2021](https://drive.google.com/file/d/1w9qjBpADGggZFhAaKjL35LAwwbZ-Ot9g/view?usp=sharing)
 - [09_Working_with_data. 17 Feb 2021](https://drive.google.com/file/d/15pJJ5tJ7LMc4KluywJnMhHLr9O5vIzUO/view?usp=sharing)
+- [10_Dimension_reduction. 24 Feb 2021](https://drive.google.com/file/d/15S4TWjuguTy-4BbIsPSdTzA7BZOu0SRh/view?usp=sharing)

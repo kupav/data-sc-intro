@@ -12,7 +12,7 @@
 1. Getting data
 1. Working with data
 1. Dimension reduction
-1. Machine learning
+1. Basic concepts of machine learning
 1. k-nearest neighbors
 1. Naive Bayes classification
 1. Regression

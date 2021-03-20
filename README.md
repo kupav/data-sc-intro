@@ -44,3 +44,4 @@
 - [09_Working_with_data. 17 Feb 2021](https://drive.google.com/file/d/15pJJ5tJ7LMc4KluywJnMhHLr9O5vIzUO/view?usp=sharing)
 - [10_Dimension_reduction. 24 Feb 2021](https://drive.google.com/file/d/15S4TWjuguTy-4BbIsPSdTzA7BZOu0SRh/view?usp=sharing)
 - [11_Basic_concepts_of_machine_learning. 03.03.2021](https://drive.google.com/file/d/1ZmHwQ1Wz73gAhOutoBjGemwlLzSxTqVa/view?usp=sharing)
+- [11_Basic_concepts_of_machine_learning, final part, 12_k-nearest_neighbors. 17.03.2021](https://drive.google.com/file/d/1DAWfaFicobYxmDSEaZabdf6CP0K56mXe/view?usp=sharing)

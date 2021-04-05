@@ -15,11 +15,7 @@
 1. Basic concepts of machine learning
 1. k-nearest neighbors
 1. Naive Bayes classification
-1. Regression
-1. Decision trees
-1. Clustering and unsuperwised learning
-1. Neural networks
-1. Deep learniing
+1. Neural networks and deep learniing
 1. Image recognition
 1. Natural language processing
 1. Text preprocessing and building vocabulary.

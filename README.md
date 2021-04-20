@@ -17,11 +17,8 @@
 1. Naive Bayes classification
 1. Neural networks and deep learning
 1. Image recognition
-1. Natural language processing
-1. Text preprocessing and building vocabulary.
-1. Bag of words
-1. Word embedding
-1. Deep network architecture for NLP
+1. Vector models of text
+1. Deep networks for natural language processing
 
 ## Zoom sessions
 
@@ -43,3 +40,4 @@
 - [11_Basic_concepts_of_machine_learning, final part, 12_k-nearest_neighbors. 17.03.2021](https://drive.google.com/file/d/1DAWfaFicobYxmDSEaZabdf6CP0K56mXe/view?usp=sharing)
 - [12_k-nearest_neighbors, final oart. 13_Naive_Bayes_classifier. 24.03.2021](https://drive.google.com/file/d/19wjQy16vOjSReaCszl_2CmIKaoIND8na/view?usp=sharing)
 - [14_Neural_networks_and_deep_learning. 07.04.2021](https://drive.google.com/file/d/181ZZyv_LwCvf6sAD_yiLVi5ccNfR8_gz/view?usp=sharing)
+- [15_Image_recognition. 14.04.2021](https://drive.google.com/file/d/1xHP1yi8IysQQ-u_Y9XjfKp4RZCdtoyL-/view?usp=sharing)

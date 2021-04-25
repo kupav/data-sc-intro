@@ -41,3 +41,4 @@
 - [12_k-nearest_neighbors, final oart. 13_Naive_Bayes_classifier. 24.03.2021](https://drive.google.com/file/d/19wjQy16vOjSReaCszl_2CmIKaoIND8na/view?usp=sharing)
 - [14_Neural_networks_and_deep_learning. 07.04.2021](https://drive.google.com/file/d/181ZZyv_LwCvf6sAD_yiLVi5ccNfR8_gz/view?usp=sharing)
 - [15_Image_recognition. 14.04.2021](https://drive.google.com/file/d/1xHP1yi8IysQQ-u_Y9XjfKp4RZCdtoyL-/view?usp=sharing)
+- [16_Vector_models_of_text. 21.04.2021](https://drive.google.com/file/d/1j-HAbwaqUmvsiPAQqkQ6bMvPnj21FAIx/view?usp=sharing)

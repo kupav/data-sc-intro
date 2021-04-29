@@ -38,7 +38,9 @@
 - [10_Dimension_reduction. 24 Feb 2021](https://drive.google.com/file/d/15S4TWjuguTy-4BbIsPSdTzA7BZOu0SRh/view?usp=sharing)
 - [11_Basic_concepts_of_machine_learning. 03.03.2021](https://drive.google.com/file/d/1ZmHwQ1Wz73gAhOutoBjGemwlLzSxTqVa/view?usp=sharing)
 - [11_Basic_concepts_of_machine_learning, final part, 12_k-nearest_neighbors. 17.03.2021](https://drive.google.com/file/d/1DAWfaFicobYxmDSEaZabdf6CP0K56mXe/view?usp=sharing)
-- [12_k-nearest_neighbors, final oart. 13_Naive_Bayes_classifier. 24.03.2021](https://drive.google.com/file/d/19wjQy16vOjSReaCszl_2CmIKaoIND8na/view?usp=sharing)
+- [12_k-nearest_neighbors, final part. 13_Naive_Bayes_classifier. 24.03.2021](https://drive.google.com/file/d/19wjQy16vOjSReaCszl_2CmIKaoIND8na/view?usp=sharing)
 - [14_Neural_networks_and_deep_learning. 07.04.2021](https://drive.google.com/file/d/181ZZyv_LwCvf6sAD_yiLVi5ccNfR8_gz/view?usp=sharing)
 - [15_Image_recognition. 14.04.2021](https://drive.google.com/file/d/1xHP1yi8IysQQ-u_Y9XjfKp4RZCdtoyL-/view?usp=sharing)
 - [16_Vector_models_of_text. 21.04.2021](https://drive.google.com/file/d/1j-HAbwaqUmvsiPAQqkQ6bMvPnj21FAIx/view?usp=sharing)
+- [16_Vector_models_of_text, final part. 17_Deep_networks_for_natural_language_processing 28.04.2021](https://drive.google.com/file/d/1zX92IuVLUkjemyfrQs2G6CT2LaUwBAbv/view?usp=sharing)
+

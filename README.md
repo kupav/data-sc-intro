@@ -1,5 +1,7 @@
 # Introduction to Data Science
 
+by Pavel Kuptsov for HSE University, Nizhny Novgorod, Russia
+
 ## Course programme
 
 1. Brief review of Python

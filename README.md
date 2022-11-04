@@ -21,4 +21,3 @@ by Pavel Kuptsov for HSE University, Nizhny Novgorod, Russia
 1. Image recognition
 1. Vector models of text
 1. Deep networks for natural language processing
-
